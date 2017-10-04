@@ -1,0 +1,7 @@
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucRegister\bin\Debug\ucRegister.dll
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucRegister\bin\Debug\ucRegister.pdb
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucRegister\obj\Debug\ucRegister.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucRegister\obj\Debug\ucRegister.mRegister.resources
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucRegister\obj\Debug\ucRegister.csproj.GenerateResource.Cache
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucRegister\obj\Debug\ucRegister.dll
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucRegister\obj\Debug\ucRegister.pdb

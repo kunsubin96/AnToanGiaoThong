@@ -1,0 +1,16 @@
+D:\AnToanGiaoThong\ucLogin\bin\Debug\ucLogin.dll
+D:\AnToanGiaoThong\ucLogin\bin\Debug\ucLogin.pdb
+D:\AnToanGiaoThong\ucLogin\obj\Debug\ucLogin.csprojResolveAssemblyReference.cache
+D:\AnToanGiaoThong\ucLogin\obj\Debug\ucLogin.mLogin.resources
+D:\AnToanGiaoThong\ucLogin\obj\Debug\ucLogin.Properties.Resources.resources
+D:\AnToanGiaoThong\ucLogin\obj\Debug\ucLogin.csproj.GenerateResource.Cache
+D:\AnToanGiaoThong\ucLogin\obj\Debug\ucLogin.dll
+D:\AnToanGiaoThong\ucLogin\obj\Debug\ucLogin.pdb
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucLogin\bin\Debug\ucLogin.dll
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucLogin\bin\Debug\ucLogin.pdb
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucLogin\obj\Debug\ucLogin.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucLogin\obj\Debug\ucLogin.mLogin.resources
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucLogin\obj\Debug\ucLogin.Properties.Resources.resources
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucLogin\obj\Debug\ucLogin.csproj.GenerateResource.Cache
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucLogin\obj\Debug\ucLogin.dll
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucLogin\obj\Debug\ucLogin.pdb

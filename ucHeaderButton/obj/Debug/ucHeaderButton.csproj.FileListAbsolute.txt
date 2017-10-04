@@ -1,0 +1,7 @@
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucHeaderButton\bin\Debug\ucHeaderButton.dll
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucHeaderButton\bin\Debug\ucHeaderButton.pdb
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucHeaderButton\obj\Debug\ucHeaderButton.mHeaderButton.resources
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucHeaderButton\obj\Debug\ucHeaderButton.Properties.Resources.resources
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucHeaderButton\obj\Debug\ucHeaderButton.csproj.GenerateResource.Cache
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucHeaderButton\obj\Debug\ucHeaderButton.dll
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucHeaderButton\obj\Debug\ucHeaderButton.pdb

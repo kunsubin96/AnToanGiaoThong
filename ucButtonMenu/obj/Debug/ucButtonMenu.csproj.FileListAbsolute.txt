@@ -1,0 +1,16 @@
+D:\AnToanGiaoThong\ucButtonMenu\bin\Debug\ucButtonMenu.dll
+D:\AnToanGiaoThong\ucButtonMenu\bin\Debug\ucButtonMenu.pdb
+D:\AnToanGiaoThong\ucButtonMenu\obj\Debug\ucButtonMenu.csprojResolveAssemblyReference.cache
+D:\AnToanGiaoThong\ucButtonMenu\obj\Debug\ucButtonMenu.mButtonMenu.resources
+D:\AnToanGiaoThong\ucButtonMenu\obj\Debug\ucButtonMenu.Properties.Resources.resources
+D:\AnToanGiaoThong\ucButtonMenu\obj\Debug\ucButtonMenu.csproj.GenerateResource.Cache
+D:\AnToanGiaoThong\ucButtonMenu\obj\Debug\ucButtonMenu.dll
+D:\AnToanGiaoThong\ucButtonMenu\obj\Debug\ucButtonMenu.pdb
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucButtonMenu\bin\Debug\ucButtonMenu.dll
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucButtonMenu\bin\Debug\ucButtonMenu.pdb
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucButtonMenu\obj\Debug\ucButtonMenu.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucButtonMenu\obj\Debug\ucButtonMenu.mButtonMenu.resources
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucButtonMenu\obj\Debug\ucButtonMenu.Properties.Resources.resources
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucButtonMenu\obj\Debug\ucButtonMenu.csproj.GenerateResource.Cache
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucButtonMenu\obj\Debug\ucButtonMenu.dll
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\ucButtonMenu\obj\Debug\ucButtonMenu.pdb

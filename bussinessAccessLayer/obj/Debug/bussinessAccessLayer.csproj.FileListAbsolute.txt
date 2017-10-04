@@ -1,0 +1,14 @@
+D:\AnToanGiaoThong\bussinessAccessLayer\bin\Debug\bussinessAccessLayer.dll
+D:\AnToanGiaoThong\bussinessAccessLayer\bin\Debug\bussinessAccessLayer.pdb
+D:\AnToanGiaoThong\bussinessAccessLayer\bin\Debug\dataAccessLayer.dll
+D:\AnToanGiaoThong\bussinessAccessLayer\bin\Debug\dataAccessLayer.pdb
+D:\AnToanGiaoThong\bussinessAccessLayer\obj\Debug\bussinessAccessLayer.csprojResolveAssemblyReference.cache
+D:\AnToanGiaoThong\bussinessAccessLayer\obj\Debug\bussinessAccessLayer.dll
+D:\AnToanGiaoThong\bussinessAccessLayer\obj\Debug\bussinessAccessLayer.pdb
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\bussinessAccessLayer\bin\Debug\bussinessAccessLayer.dll
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\bussinessAccessLayer\bin\Debug\bussinessAccessLayer.pdb
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\bussinessAccessLayer\bin\Debug\dataAccessLayer.dll
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\bussinessAccessLayer\bin\Debug\dataAccessLayer.pdb
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\bussinessAccessLayer\obj\Debug\bussinessAccessLayer.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\bussinessAccessLayer\obj\Debug\bussinessAccessLayer.dll
+D:\PROGRAMING\VisualStudio_Project\HK1_N3\[CNPM]\AnToanGiaoThong\bussinessAccessLayer\obj\Debug\bussinessAccessLayer.pdb
